@@ -1,7 +1,7 @@
 # BAMBULAB-P1S - Makerspace Anleitungen und Beschreibungen
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/8831ef52-8d90-41aa-a6a0-a2d5be59b0ef" /> 
 
-Dieses Repository enthält Anleitungen, Baupläne, Dokumentation, Hilfestellungen, Tipps, Links und Firmware-bezogene Informationen zum Bambu Lab P1S (Makerspace-Sammlung).
+Dieses Repository enthält Anleitungen, Baupläne, Dokumentation, Hilfestellungen, Tipps, Links und Firmware-bezogene Informationen zum Bambu Lab P1S (Makerspace-Sammlung). 
 Dokumentation, Hilfestellungen, Tipps, Links 
 Zweck
 - Zentrale Sammlung von HowTos, Schritt-für-Schritt Anleitungen und Materialien für Mitglieder.
