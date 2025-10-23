@@ -32,4 +32,4 @@ Code of Conduct
 - Bitte respektvoll und konstruktiv zusammenarbeiten. (Ergänze ggf. `CODE_OF_CONDUCT.md`.)
 
 Kontakt
-- Bei Fragen: Issue eröffnen oder @dhaude anpingen.
+- Bei Fragen: Issue eröffnen oder @giulia anpingen.
