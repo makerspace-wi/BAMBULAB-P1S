@@ -3,6 +3,15 @@
 
 Dieses Repository enthält Anleitungen, Baupläne, Dokumentation, Hilfestellungen, Tipps, Links und Firmware-bezogene Informationen zum Bambu Lab P1S (Makerspace-Sammlung). 
 
+# Wie kann ich den Drucker benutzen
+
+Um den Bambulab Drucker verwenden zu können brauchst du eine Einweisung und dann wirst du freigeschaltet. 
+
+Wir haben den Drucker als Ergänzung für die Werkstatt gekauft um unseren Mitgliedern einen niederschwefligen, “unkomplizierten” Zugang zu 3D Druck zu ermöglichen. Um ein die Nutzung so unkompliziert wie möglich zu machen verwenden wir nur die Software des Herstellers, sowie das Bambulab Filmen.
+**********************************************************************************************************************
+
+
+
 Zweck
 - Zentrale Sammlung von HowTos, Schritt-für-Schritt Anleitungen und Materialien für Mitglieder.
 - Versionskontrolle und kollaborative Pflege durch Beiträge im Repo.
