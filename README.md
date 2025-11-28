@@ -3,7 +3,7 @@
 
 # Welches Modell haben wir
 
-Wir haben den Bambulab P1S, hier findest du Details auf der <a href="https://estlcam.de/index.php#Help](https://wiki.bambulab.com/en/p1)" target="_blank">Bambulab Seite</a>
+Wir haben den Bambulab P1S, hier findest du Details auf der <a href="https://wiki.bambulab.com/en/p1" target="_blank">Bambulab Seite</a>
 
 
 # Wie kann ich den Drucker benutzen
