@@ -5,7 +5,6 @@
 
 Wir haben den Bambulab P1S, hier findest du Details auf der <a href="https://wiki.bambulab.com/en/p1" target="_blank">Bambulab Seite</a>
 
-
 # Wie kann ich den Drucker benutzen
 
 Um den Bambulab Drucker verwenden zu können, brauchst du eine Einweisung und dann wirst du freigeschaltet. 
