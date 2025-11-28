@@ -9,15 +9,15 @@ https://wiki.bambulab.com/en/p1
 
 # Wie kann ich den Drucker benutzen
 
-Um den Bambulab Drucker verwenden zu können brauchst du eine Einweisung und dann wirst du freigeschaltet. 
+Um den Bambulab Drucker verwenden zu können, brauchst du eine Einweisung und dann wirst du freigeschaltet. 
 
-Wir haben den Drucker als Ergänzung für die Werkstatt gekauft um unseren Mitgliedern einen niederschwefligen, “unkomplizierten” Zugang zu 3D Druck zu ermöglichen. Um ein die Nutzung so unkompliziert wie möglich zu machen verwenden wir nur die Software des Herstellers, sowie das Bambulab Filmen.
+Wir haben den Drucker als Ergänzung für die Werkstatt gekauft um unseren Mitgliedern einen niederschwelligen, “unkomplizierten” Zugang zu 3D-Druck zu ermöglichen. Um ein die Nutzung so unkompliziert wie möglich zu machen, verwenden wir nur die Software des Herstellers, sowie das Bambulab Filment.
 
 # Einweisung
 
 ## Gerät einschalten und PC im Druckerraum starten
 
-Hierzu musst du deinen freigeschalteten Chip an das RFID Chiplesegerät halten. Damit ist der Strom eingeschaltet und der Drucker “fährt hoch”. 
+Hierzu musst du deinen freigeschalteten Chip an das RFID Chiplesegerät halten. Damit wird der Strom eingeschaltet und der Drucker “fährt hoch”. 
 
 ## Bambulab Studio
 
