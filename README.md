@@ -38,7 +38,7 @@ Projekt vorbereiten
 
 Du kannst über Online Models aus dem echt großen Makerworld Katalog auswählen oder du lädst eine eigene STL Datei hoch. Um den Druck vorzubereiten landest du immer auf dem Prepare Seite von Bambulab. 
 
-![Bild 05.11.25 um 16.53.jpeg](attachment:b8268017-dc1b-42af-a599-9549122c1162:Bild_05.11.25_um_16.53.jpeg)
+![Bild](./images/Filament_Wechseln.png)  
 
 Hier bitte den richtigen Drucker Bambu Lab P1S auswählen, oder “Sync” klicken. Nozzle ist eine 0,4 mm und Flow Standard. Bitte hier nicht ändern. 
 
@@ -97,7 +97,7 @@ Filamente findest du in der Kiste unter dem Sideboard. Hier bewahren wir sie luf
 - Die beiden Verriegelungen oben am Gerät aufdrehen und den Deckel öffnen
 - Fest auf die graue Lasche drücken und die Spule vom Tab weg drehen, um das Filament zu lösen
 
-![image.png](attachment:e2bdc9d5-33e9-4b07-9419-aabc7da42450:image.png)
+![Bild](./images/Projekt_Vorbereiten.jpeg)
 
 - Die alte Spule herausnehmen und die neue Farbe einsetzen (Filament muss von oben kommen)
 - Wieder auf die graue Lasche drücken, etwa 2,5 cm Filament einführen und die Lasche loslassen
